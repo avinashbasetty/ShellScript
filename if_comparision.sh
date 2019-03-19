@@ -1,3 +1,5 @@
+/*
+
 Expressions 
 An expression can be: String comparison, Numeric comparison, File operators and Logical operators and it is represented by [expression]:
 String Comparisons:  
@@ -30,3 +32,4 @@ Examples:
 [ n1 -ne n2 ]  (true if n1 is not same as n2, else false)
 [ n1 -gt n2 ]  (true if n1 greater then n2, else false)
 [ n1 -lt n2 ]  (true if n1 less then n2, else false)
+*/
